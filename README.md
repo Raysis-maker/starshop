@@ -325,7 +325,7 @@ Actualizamos `templates/main/homepage.html.twig`:
 ### Instalar las herramientas de depuración
 
 ```shell
-composer require debug
+composer require debug --dev
 ```
 
 ### Hola barra de herramientas de depuración web y perfilador
